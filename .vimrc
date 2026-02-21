@@ -99,3 +99,5 @@ set nobackup
 set t_Co=256
 let g:zenburn_high_Contrast=1
 colors zenburn
+highlight Normal ctermbg=NONE
+highlight NonText ctermbg=NONE
